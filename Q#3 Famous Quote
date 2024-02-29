@@ -1,0 +1,3 @@
+let famousQuote = 'A Country can Run with disbeleif but not without Justice' ;
+let author = 'Hazrayt Ali R.A';
+console.log(`${author} once said, "${famousQuote}"`);
