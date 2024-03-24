@@ -1,1 +1,2 @@
-
+let myName: string = "Muhammad Waqar";
+console.log(`Hello ${myName}, would you like to learn some TypeScript today?`);
